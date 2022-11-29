@@ -1,0 +1,32 @@
+[
+    {
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Harry Potter and the Philosopher's Stone",
+      "author": "J. K. Rowling",
+          "genre": "fiction",
+          "edition": "2021",
+          "publisher": "Bloomsbury",
+          "cost": 1299,
+          "borrowed": false
+    },
+    {
+        "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+        "book_name": "Harry Potter and the Philosopher's Stone",
+        "author": "J. M. R",
+            "genre": "History",
+            "edition": "2020",
+            "publisher": "Bloomsbury",
+            "cost": 1399,
+            "borrowed": false
+      },
+      {
+        "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+        "book_name": "Harry Potter and the Philosopher's Stone",
+        "author": "J. JSHON",
+            "genre": "Science",
+            "edition": "2022",
+            "publisher": "One",
+            "cost": 1119,
+            "borrowed": false
+      }
+  ]
